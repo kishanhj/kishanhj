@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a grad student at Stevens Institute of technology
 - 🌱 I’m currently building hybrid apps using react native
 - 👯 I’m looking to collaborate on building anything cool
