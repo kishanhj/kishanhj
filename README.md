@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+# 👨‍💻 I am Kishan Huliyar
+
 I'm a CS graduate Student at [Stevens Institute of technology](https://www.stevens.edu/) New Jersey, Junior Full Stack web developer <br/> <br/>
 [![twitter badge](https://img.shields.io/badge/twitter-@kishan-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://kishanhuliyar.netlify.app/)
 [![dev.to badge](https://img.shields.io/badge/linkedin-kishan-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishanhuliyar)
