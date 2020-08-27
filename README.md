@@ -1,5 +1,6 @@
-### Hi there 👋
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+
+### Hi there 👋
 
 I'm a CS graduate Student at [Stevens Institute of technology](https://www.stevens.edu/) New Jersey, Junior Full Stack web developer <br/> <br/>
 [![twitter badge](https://img.shields.io/badge/twitter-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://kishanhuliyar.netlify.app/)
